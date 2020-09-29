@@ -9,3 +9,6 @@ Storage for 'Latest Artificial Intelligence Paper Study'
 
 ### 3nd Week (2020/09/16)
 - [Scaling Graph Neural Networks with Approximate PageRank](https://arxiv.org/abs/2007.01570)
+
+### 4th Week (2020/09/22)
+- [[Person Lab] Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model](https://arxiv.org/abs/1803.08225)
