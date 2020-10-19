@@ -15,3 +15,6 @@ Storage for 'Latest Artificial Intelligence Paper Study'
 
 ### 5th Week (2020/10/14)
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+
+### 6th Week (2020/10/28)
+- [Intention Nets: Psychology-Inspired User Choice Behavior Modeling for Next-Basket Prediction]
