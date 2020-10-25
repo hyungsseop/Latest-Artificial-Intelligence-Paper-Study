@@ -17,4 +17,4 @@ Storage for 'Latest Artificial Intelligence Paper Study'
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 
 ### 6th Week (2020/10/28)
-- [Intention Nets: Psychology-Inspired User Choice Behavior Modeling for Next-Basket Prediction](10.1609/aaai.v34i04.6093)
+- [The Use of AI for Thermal Emotion Recognition: A Review of Problems and Limitations in Standard Design and Data](https://arxiv.org/abs/2009.10589)
